@@ -1,2 +1,2 @@
 # PrepCourseHenry
-Este es un repositorio del modulo 2 del prepcourse de Henry
+Este es un repositorio del modulo 2 del prepcourse de Henry y clonar desde mi githup a mi computadora.
